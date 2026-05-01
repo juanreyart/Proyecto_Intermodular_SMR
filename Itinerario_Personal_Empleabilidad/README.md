@@ -3,7 +3,7 @@
 Este repositorio contiene la documentación y reflexión sobre mi trayectoria académica y profesional durante el primer curso de **Sistemas Microinformáticos y Redes (SMR)**.
 
 ## Autor
-**Juan Antonio Rey Vicente** Estudiante de 1º SMR | Vilagarcía de Arousa (Galicia)
+**Juan Antonio Rey Vicente** | Estudiante de 1º SMR | Vilagarcía de Arousa (Galicia)
 
 ---
 
