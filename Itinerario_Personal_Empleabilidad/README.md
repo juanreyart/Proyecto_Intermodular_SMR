@@ -3,7 +3,7 @@
 Este repositorio contiene la documentación y reflexión sobre mi trayectoria académica y profesional durante el primer curso de **Sistemas Microinformáticos y Redes (SMR)**.
 
 ## Autor
-**Juan Antonio Rey Vicente** Estudiante de 1º SMR | Vilagarcía de Arousa
+**Juan Antonio Rey Vicente** Estudiante de 1º SMR | Vilagarcía de Arousa (Galicia)
 
 ---
 
@@ -36,4 +36,4 @@ Mi objetivo es fusionar mi **faceta creativa** (diseño e ilustración) con la *
 > *"La tecnología es el medio; el diseño y la funcionalidad son el mensaje."*
 
 ---
-*Documento vinculado al Proyecto Intermodular SMR - 2026*
+*Documentos vinculados al Proyecto Intermodular SMR - 2026*
