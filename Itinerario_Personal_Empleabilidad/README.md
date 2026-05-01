@@ -1,4 +1,4 @@
-# Itinerario Personal de Empleabilidad
+# Itinerario Personal de Empleabilidad - Galería de Arte Digital
 
 Este repositorio contiene la documentación y reflexión sobre mi trayectoria académica y profesional durante el primer curso de **Sistemas Microinformáticos y Redes (SMR)**.
 
@@ -36,4 +36,4 @@ Mi objetivo es fusionar mi **faceta creativa** (diseño e ilustración) con la *
 > *"La tecnología es el medio; el diseño y la funcionalidad son el mensaje."*
 
 ---
-*Documentos vinculados al Proyecto Intermodular SMR - 2026*
+*Proyecto Intermodular 1º SMR | Galería de Arte Digital | Juan Antonio Rey Vicente*
